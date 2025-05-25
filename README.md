@@ -27,7 +27,7 @@ A high-performance, fully automated trading assistant for Solana and Ethereum ne
 
 ---
 
-(Dashboard)[img/pumpfunbotdashboard.png]
+!(Dashboard)[img/pumpfunbotdashboard.png]
 
 ## 🛠️ Installation & Setup
 
